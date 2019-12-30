@@ -17,7 +17,7 @@ PhD, University of Illinois at Urbana-Champaign, Mechanical Engineering
 MS, University of Illinois at Urbana-Champaign, Mechanical Engineering
 BS, Jadavpur University, Mechanical Engineering
 
-# Data Science and Numerical Simulation Projects
-## Detection of aerospace material damage by image analysis
+# Data Science and Numerical Modeling
+## Detection of material damage by image analysis
 ## Finite element analysis and Error estimation 
 
