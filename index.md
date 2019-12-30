@@ -17,7 +17,7 @@ PhD, University of Illinois at Urbana-Champaign, Mechanical Engineering
 MS, University of Illinois at Urbana-Champaign, Mechanical Engineering
 BS, Jadavpur University, Mechanical Engineering
 
-# Data Science and Numerical Modeling
+# Data Science and Simulations
 ### Image analysis for material failure prediction
-### Finite element analysis and Error estimation 
+### Error analysis in finite element method 
 
