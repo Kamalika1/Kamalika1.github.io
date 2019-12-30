@@ -3,4 +3,4 @@ logo: download1.png
 description: Welcome.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: false
