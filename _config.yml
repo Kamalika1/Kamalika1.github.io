@@ -1,6 +1,6 @@
 title: Kamalika Chatterjee
 logo: download1.png
-description:
-show_downloads:
+description: Welcome.
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
